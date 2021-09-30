@@ -1,0 +1,1752 @@
+fileFormatVersion: 2
+guid: ec96b9ef201d34b46a494a00522d4e84
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 8253627427288080128
+    second: Box003|Box003|Take 001|BaseLayer
+  - first:
+      74: 3967640205877511450
+    second: Box003|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -7112294000586588662
+    second: Box003|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: -7443423925354896338
+    second: Box003|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: 3076377685488188900
+    second: Box003|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: -8147142253262267528
+    second: Box003|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -8007116942671322989
+    second: Box003|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 6807248068087746017
+    second: Box003|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: -6702416553995033903
+    second: Box003|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: -5756799692237146586
+    second: Box003|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -5318643251303041286
+    second: Box003|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 4450179078704331320
+    second: Box003|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: 4994706974507816790
+    second: Box003|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: -3119973001506778416
+    second: Box003|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -9049085315815699244
+    second: Box003|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 5554741400504679091
+    second: Box003|Shader NodetreeAction
+  - first:
+      74: -1288487702084429214
+    second: Box003|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -8799640633531928612
+    second: Box003|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 2914335711650220387
+    second: Box003|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -3315108552124253539
+    second: Box003|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 8843176924385235460
+    second: Box003|Sphere075|Take 001|BaseLayer
+  - first:
+      74: 4721071155812015496
+    second: Box003|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: 1021344569067963164
+    second: Box003|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 4210827362132889179
+    second: Box003|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 5044482839768297961
+    second: Box003|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: 5676458672339320425
+    second: Cylinder158|Box003|Take 001|BaseLayer
+  - first:
+      74: -6468061335817918846
+    second: Cylinder158|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 8771978930120333157
+    second: Cylinder158|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 8135569808389315047
+    second: Cylinder158|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -6415232439552317031
+    second: Cylinder158|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 8083518114830429791
+    second: Cylinder158|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 354499178111379067
+    second: Cylinder158|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 3567370183099022162
+    second: Cylinder158|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 5576762464661883825
+    second: Cylinder158|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: -6954664286504624380
+    second: Cylinder158|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -15225880038026179
+    second: Cylinder158|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: -981681658916992602
+    second: Cylinder158|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -3681384143172790996
+    second: Cylinder158|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 649857197434085263
+    second: Cylinder158|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -4025667798843418866
+    second: Cylinder158|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 55083706192390026
+    second: Cylinder158|Shader NodetreeAction
+  - first:
+      74: -2347076610055445939
+    second: Cylinder158|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 4708742592865357828
+    second: Cylinder158|Sphere072|Take 001|BaseLayer
+  - first:
+      74: -7761858163718015178
+    second: Cylinder158|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 2992186040542522547
+    second: Cylinder158|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 3782922864817749008
+    second: Cylinder158|Sphere075|Take 001|BaseLayer
+  - first:
+      74: 8115012932572880806
+    second: Cylinder158|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: 7896259201357307962
+    second: Cylinder158|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: -1533463775206264504
+    second: Cylinder158|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 3414219528511721330
+    second: Cylinder158|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -3337582845160122048
+    second: Cylinder159|Box003|Take 001|BaseLayer
+  - first:
+      74: 1803961617467721502
+    second: Cylinder159|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -9001027309407781597
+    second: Cylinder159|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 6418622685650529211
+    second: Cylinder159|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -7261391077619762316
+    second: Cylinder159|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: -4324567736206299348
+    second: Cylinder159|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -405719596621400121
+    second: Cylinder159|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 1722475164700599641
+    second: Cylinder159|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 9091286185698765857
+    second: Cylinder159|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: -6094789336636904874
+    second: Cylinder159|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -5124966708104579894
+    second: Cylinder159|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: -4820791188205736698
+    second: Cylinder159|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: 7773050647169304398
+    second: Cylinder159|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 6945966142774913282
+    second: Cylinder159|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 2295759624037438637
+    second: Cylinder159|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 7317592347857485277
+    second: Cylinder159|Shader NodetreeAction
+  - first:
+      74: -4720602408977556526
+    second: Cylinder159|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -2343707957248513668
+    second: Cylinder159|Sphere072|Take 001|BaseLayer
+  - first:
+      74: -744858875244362225
+    second: Cylinder159|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -757775990554167066
+    second: Cylinder159|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -2628243230775893024
+    second: Cylinder159|Sphere075|Take 001|BaseLayer
+  - first:
+      74: 5886121982159241270
+    second: Cylinder159|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -6229294160279326179
+    second: Cylinder159|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 3557157227911089978
+    second: Cylinder159|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 3952124215902681796
+    second: Cylinder159|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: 7977997600540839983
+    second: Cylinder160|Box003|Take 001|BaseLayer
+  - first:
+      74: -425587769104989435
+    second: Cylinder160|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -8300265950568446314
+    second: Cylinder160|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 5831513336641838623
+    second: Cylinder160|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -1771197118223613097
+    second: Cylinder160|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 7636422723118993295
+    second: Cylinder160|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -3212894670950890681
+    second: Cylinder160|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 5642679146706177395
+    second: Cylinder160|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: -676695714217220294
+    second: Cylinder160|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: -3377696489957068233
+    second: Cylinder160|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -3704814237868423913
+    second: Cylinder160|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: -2644361985124863679
+    second: Cylinder160|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: 2734335514447309841
+    second: Cylinder160|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 7540926859472607312
+    second: Cylinder160|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 2981628527910651753
+    second: Cylinder160|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -2656427197250458986
+    second: Cylinder160|Shader NodetreeAction
+  - first:
+      74: -4414100692504122515
+    second: Cylinder160|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -5529673890450636235
+    second: Cylinder160|Sphere072|Take 001|BaseLayer
+  - first:
+      74: -1031322162618761984
+    second: Cylinder160|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -2558082819754409333
+    second: Cylinder160|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -3253167614620125303
+    second: Cylinder160|Sphere075|Take 001|BaseLayer
+  - first:
+      74: 818901733227140833
+    second: Cylinder160|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: 8811901691594732949
+    second: Cylinder160|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: -8588741112645518794
+    second: Cylinder160|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 2251829382605374337
+    second: Cylinder160|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: 3257758324133273469
+    second: Cylinder161|Box003|Take 001|BaseLayer
+  - first:
+      74: 4531537331811596170
+    second: Cylinder161|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -6553414648773760289
+    second: Cylinder161|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 3918321724386566815
+    second: Cylinder161|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: 5074818224787608259
+    second: Cylinder161|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: -7116535171816168252
+    second: Cylinder161|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 815442447568145852
+    second: Cylinder161|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 6541144576780291439
+    second: Cylinder161|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 8454934373183866179
+    second: Cylinder161|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 3461459630095990838
+    second: Cylinder161|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 5828678755509917387
+    second: Cylinder161|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: -6586871326955920278
+    second: Cylinder161|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -806398046781752245
+    second: Cylinder161|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: -3753129939803213290
+    second: Cylinder161|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 5879030175544110920
+    second: Cylinder161|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 610497997790491381
+    second: Cylinder161|Shader NodetreeAction
+  - first:
+      74: -6375011694730090360
+    second: Cylinder161|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -7660631993086202910
+    second: Cylinder161|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 5011209580914731587
+    second: Cylinder161|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -7441004969758441518
+    second: Cylinder161|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 4686011491108425681
+    second: Cylinder161|Sphere075|Take 001|BaseLayer
+  - first:
+      74: 5959938792904934474
+    second: Cylinder161|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -4659735117199643796
+    second: Cylinder161|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 2377036205137454988
+    second: Cylinder161|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: -5604662023096237556
+    second: Cylinder161|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: 3704567933049585221
+    second: Cylinder162|Box003|Take 001|BaseLayer
+  - first:
+      74: 3266461663128862683
+    second: Cylinder162|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 3640164619781004717
+    second: Cylinder162|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: -5553463710604679688
+    second: Cylinder162|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: 3953708659657403840
+    second: Cylinder162|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: -5973609377141809260
+    second: Cylinder162|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -6318544906496142195
+    second: Cylinder162|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: -686653270483047179
+    second: Cylinder162|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 1977997240448057948
+    second: Cylinder162|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: -1469037719192426519
+    second: Cylinder162|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -1602943880545391501
+    second: Cylinder162|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 9022990765648346304
+    second: Cylinder162|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -3852988877433819594
+    second: Cylinder162|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 5784111371435897450
+    second: Cylinder162|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -367166689194446335
+    second: Cylinder162|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -1329019800231489925
+    second: Cylinder162|Shader NodetreeAction
+  - first:
+      74: 1924836253481109921
+    second: Cylinder162|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -8235008459409786455
+    second: Cylinder162|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 5794826075731102952
+    second: Cylinder162|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 4966418545902602935
+    second: Cylinder162|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 3053532287508750787
+    second: Cylinder162|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -5617636442559070954
+    second: Cylinder162|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -3958843298963093678
+    second: Cylinder162|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 7926300522564990655
+    second: Cylinder162|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 6019573505239748168
+    second: Cylinder162|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -8915513220875139002
+    second: Cylinder163|Box003|Take 001|BaseLayer
+  - first:
+      74: 2868203128383219026
+    second: Cylinder163|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 6696695513464896703
+    second: Cylinder163|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 6917273739832468307
+    second: Cylinder163|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: 4768337603104970342
+    second: Cylinder163|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 253828268394192033
+    second: Cylinder163|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -3109716894129489209
+    second: Cylinder163|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 5969038944642673470
+    second: Cylinder163|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 4345352941977313637
+    second: Cylinder163|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 4051205534462798883
+    second: Cylinder163|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 2294002553645559523
+    second: Cylinder163|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 8044698290997140958
+    second: Cylinder163|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -7260404861981603357
+    second: Cylinder163|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: -1987482512350641047
+    second: Cylinder163|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 5177403283778612615
+    second: Cylinder163|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -6481136796814977915
+    second: Cylinder163|Shader NodetreeAction
+  - first:
+      74: -1523368674793922542
+    second: Cylinder163|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -2234292961924662019
+    second: Cylinder163|Sphere072|Take 001|BaseLayer
+  - first:
+      74: -6023627775136881598
+    second: Cylinder163|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 4269838950930128788
+    second: Cylinder163|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -3877615818170565375
+    second: Cylinder163|Sphere075|Take 001|BaseLayer
+  - first:
+      74: 8364189238143291230
+    second: Cylinder163|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -1725243043402899409
+    second: Cylinder163|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 6139577554153180869
+    second: Cylinder163|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 4456062306374942136
+    second: Cylinder163|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -5209378651932476573
+    second: Cylinder164|Box003|Take 001|BaseLayer
+  - first:
+      74: 507951791269157729
+    second: Cylinder164|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 7322963735280887183
+    second: Cylinder164|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 8791713591408383988
+    second: Cylinder164|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -5604150849924671069
+    second: Cylinder164|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 7981793186131105774
+    second: Cylinder164|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -4065123486075166562
+    second: Cylinder164|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 2155489438556803761
+    second: Cylinder164|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: -3004185072592140
+    second: Cylinder164|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 6651775767225354035
+    second: Cylinder164|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 6462152824833155552
+    second: Cylinder164|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 7376699349329718045
+    second: Cylinder164|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -3018600251524020503
+    second: Cylinder164|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 478025385084949006
+    second: Cylinder164|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 2659002931335818367
+    second: Cylinder164|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -4377792167802567526
+    second: Cylinder164|Shader NodetreeAction
+  - first:
+      74: -8058400189062409316
+    second: Cylinder164|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 5686254513167828847
+    second: Cylinder164|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 8136652060247407318
+    second: Cylinder164|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 8952804518095777585
+    second: Cylinder164|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -7732490902815325525
+    second: Cylinder164|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -4298162950757703380
+    second: Cylinder164|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -6553267586870158637
+    second: Cylinder164|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 2889994655943528085
+    second: Cylinder164|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: -191113941852597953
+    second: Cylinder164|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -2938536981526027959
+    second: Cylinder165|Box003|Take 001|BaseLayer
+  - first:
+      74: 2129431188463436566
+    second: Cylinder165|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 3916333237066696239
+    second: Cylinder165|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: -4712993692456166313
+    second: Cylinder165|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -8567313183527327610
+    second: Cylinder165|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: -8300495761996618869
+    second: Cylinder165|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 4690941385261966505
+    second: Cylinder165|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 1000403179297733000
+    second: Cylinder165|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 7225835928963905948
+    second: Cylinder165|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: -3488333639424967565
+    second: Cylinder165|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 5938932988755978425
+    second: Cylinder165|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 2748040747848989851
+    second: Cylinder165|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -296817590738458496
+    second: Cylinder165|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: -7232830275534926537
+    second: Cylinder165|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -5598992023722041739
+    second: Cylinder165|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 188381704606165526
+    second: Cylinder165|Shader NodetreeAction
+  - first:
+      74: 6658722408334490566
+    second: Cylinder165|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 3700060446588431776
+    second: Cylinder165|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 1386588358039485046
+    second: Cylinder165|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -8116324281298006975
+    second: Cylinder165|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 8238467520079112444
+    second: Cylinder165|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -3650478032794123225
+    second: Cylinder165|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: 7389587303612456691
+    second: Cylinder165|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: -3607950841783647166
+    second: Cylinder165|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 2120079779585023090
+    second: Cylinder165|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -7590104419395266095
+    second: Cylinder166|Box003|Take 001|BaseLayer
+  - first:
+      74: 7247448907196199644
+    second: Cylinder166|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -3062940513855565088
+    second: Cylinder166|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: -2821877778210457143
+    second: Cylinder166|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: 2990794740938755005
+    second: Cylinder166|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 6054861244509811777
+    second: Cylinder166|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 5834455430292456638
+    second: Cylinder166|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: -2582656058269927854
+    second: Cylinder166|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 5156311921381438269
+    second: Cylinder166|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: -2851900431984861190
+    second: Cylinder166|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 5940712412643702112
+    second: Cylinder166|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 6787413097414998874
+    second: Cylinder166|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: 8796780412319988096
+    second: Cylinder166|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 6674174772391327729
+    second: Cylinder166|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -811460002420620605
+    second: Cylinder166|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -1519768360116273221
+    second: Cylinder166|Shader NodetreeAction
+  - first:
+      74: -3181812210460441994
+    second: Cylinder166|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 3302506104809829196
+    second: Cylinder166|Sphere072|Take 001|BaseLayer
+  - first:
+      74: -58585713362984709
+    second: Cylinder166|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -593253408768613177
+    second: Cylinder166|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -4279267741557027263
+    second: Cylinder166|Sphere075|Take 001|BaseLayer
+  - first:
+      74: 4193784704524082131
+    second: Cylinder166|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -7678898236504126578
+    second: Cylinder166|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 8593502860523875490
+    second: Cylinder166|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: -5978310631019899536
+    second: Cylinder166|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -8843391040128463452
+    second: Cylinder167|Box003|Take 001|BaseLayer
+  - first:
+      74: -7994970234839021236
+    second: Cylinder167|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -193920223389897253
+    second: Cylinder167|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 3521780328212660286
+    second: Cylinder167|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: 446170602071433706
+    second: Cylinder167|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 7716295249339421445
+    second: Cylinder167|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 6672314983950305119
+    second: Cylinder167|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 8251295643961296830
+    second: Cylinder167|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: -605239266289720221
+    second: Cylinder167|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 23315899713573560
+    second: Cylinder167|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -6274127700167858485
+    second: Cylinder167|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 8918943571547253583
+    second: Cylinder167|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -1937552130072750679
+    second: Cylinder167|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 2474789902668432246
+    second: Cylinder167|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -3132826778528901023
+    second: Cylinder167|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -6175304506613556838
+    second: Cylinder167|Shader NodetreeAction
+  - first:
+      74: -7742485258718972414
+    second: Cylinder167|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -7475026540986974052
+    second: Cylinder167|Sphere072|Take 001|BaseLayer
+  - first:
+      74: -6948222901614376361
+    second: Cylinder167|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -5112856733615441044
+    second: Cylinder167|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 8913705099251909138
+    second: Cylinder167|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -7369407384476371483
+    second: Cylinder167|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: 8856171227500891833
+    second: Cylinder167|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 6295505579285293433
+    second: Cylinder167|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 4264410035003367252
+    second: Cylinder167|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -236174534355102420
+    second: Sphere071|Box003|Take 001|BaseLayer
+  - first:
+      74: -7227253729622228801
+    second: Sphere071|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -7456609804793365549
+    second: Sphere071|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: -2522373448844978997
+    second: Sphere071|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -5507900153736569259
+    second: Sphere071|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: -5712784826878160643
+    second: Sphere071|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 9089260852464344570
+    second: Sphere071|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 3180008484450317527
+    second: Sphere071|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 7011350064188189854
+    second: Sphere071|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: -7367784145432810123
+    second: Sphere071|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 4178704893184513063
+    second: Sphere071|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 8858583123046564256
+    second: Sphere071|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: 5468802762521625929
+    second: Sphere071|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 9154319096345578249
+    second: Sphere071|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 8510618737067440823
+    second: Sphere071|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 8169376704917569502
+    second: Sphere071|Shader NodetreeAction
+  - first:
+      74: 625237280502984015
+    second: Sphere071|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 5150666606888415919
+    second: Sphere071|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 4654425887333737147
+    second: Sphere071|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 6753608685629560297
+    second: Sphere071|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -6657047947017381343
+    second: Sphere071|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -3442819614467318830
+    second: Sphere071|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -338971977471137320
+    second: Sphere071|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: -5458423603257867574
+    second: Sphere071|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 3045686884401015287
+    second: Sphere071|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -276035902984551612
+    second: Sphere072|Box003|Take 001|BaseLayer
+  - first:
+      74: 3996378177549765799
+    second: Sphere072|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -4266716203838599439
+    second: Sphere072|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: -3741507593781561187
+    second: Sphere072|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -3128386010351597288
+    second: Sphere072|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: -8895098990955723948
+    second: Sphere072|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 2229783215795207337
+    second: Sphere072|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: -8523172974445351349
+    second: Sphere072|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 1767086242887581900
+    second: Sphere072|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: -825904075402286358
+    second: Sphere072|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 3732194489249492069
+    second: Sphere072|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: -5990482569808833451
+    second: Sphere072|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -4188298891723308228
+    second: Sphere072|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 4367652003500679448
+    second: Sphere072|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -9185897651690851536
+    second: Sphere072|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -8086269882527449501
+    second: Sphere072|Shader NodetreeAction
+  - first:
+      74: -6532000564688754137
+    second: Sphere072|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -256004211927834278
+    second: Sphere072|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 6626365875919918059
+    second: Sphere072|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -1165709801710864062
+    second: Sphere072|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 796977948505287800
+    second: Sphere072|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -30711724033734125
+    second: Sphere072|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: 5596826003699454276
+    second: Sphere072|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 5498173024331449971
+    second: Sphere072|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 7207201575880930430
+    second: Sphere072|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: 3182678778704984155
+    second: Sphere073|Box003|Take 001|BaseLayer
+  - first:
+      74: 5286378837397993146
+    second: Sphere073|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -2432435472720734757
+    second: Sphere073|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 3579583348260616812
+    second: Sphere073|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: 5458440976896935056
+    second: Sphere073|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: -3123560765021830973
+    second: Sphere073|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 2925016249160737298
+    second: Sphere073|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 5213746113184978712
+    second: Sphere073|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 103878979107812332
+    second: Sphere073|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 1483346875316632770
+    second: Sphere073|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 7031803150415569467
+    second: Sphere073|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: -3325707067192125655
+    second: Sphere073|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: 4810978414569040672
+    second: Sphere073|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: -2274759290065315714
+    second: Sphere073|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 6337395344475625694
+    second: Sphere073|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 6287854308381062122
+    second: Sphere073|Shader NodetreeAction
+  - first:
+      74: -1521874591706825567
+    second: Sphere073|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 2567601833488359632
+    second: Sphere073|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 8709924503943601507
+    second: Sphere073|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -8182572623302094895
+    second: Sphere073|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -1053474525117950100
+    second: Sphere073|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -2081202073631993981
+    second: Sphere073|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: 7430661720111533692
+    second: Sphere073|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 468512257734431363
+    second: Sphere073|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 2718327129365785281
+    second: Sphere073|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: 6746149692042120587
+    second: Sphere074|Box003|Take 001|BaseLayer
+  - first:
+      74: 2286766941037210126
+    second: Sphere074|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 7608978530158851214
+    second: Sphere074|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 8791463945930616011
+    second: Sphere074|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: 4012029760575893964
+    second: Sphere074|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 404871280288442728
+    second: Sphere074|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -7019966583077193097
+    second: Sphere074|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 9182411226877382506
+    second: Sphere074|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: -1193188802547718410
+    second: Sphere074|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 5306341014157654990
+    second: Sphere074|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 5463456715012233804
+    second: Sphere074|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: -4787895640856953872
+    second: Sphere074|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -5603816380150015509
+    second: Sphere074|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 2057651693286711976
+    second: Sphere074|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -8365205079148018032
+    second: Sphere074|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 6464279725685543309
+    second: Sphere074|Shader NodetreeAction
+  - first:
+      74: -3220448804785858050
+    second: Sphere074|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -4645508428350930848
+    second: Sphere074|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 8983563770013397178
+    second: Sphere074|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -8121767273690470598
+    second: Sphere074|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -234578117286058378
+    second: Sphere074|Sphere075|Take 001|BaseLayer
+  - first:
+      74: 5285614608061541216
+    second: Sphere074|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -2818054993974316536
+    second: Sphere074|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: -7004920106363781344
+    second: Sphere074|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: -5142598058161217960
+    second: Sphere074|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -6136558051864118354
+    second: Sphere075|Box003|Take 001|BaseLayer
+  - first:
+      74: 1362898183809349359
+    second: Sphere075|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 1957425783803258221
+    second: Sphere075|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 2341873317076244750
+    second: Sphere075|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -9070493566900511704
+    second: Sphere075|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 8023748291110654771
+    second: Sphere075|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -4967391336080684035
+    second: Sphere075|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: -2474276636354744399
+    second: Sphere075|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: -3010164472326679581
+    second: Sphere075|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 1170306759357499346
+    second: Sphere075|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -2220620696664930700
+    second: Sphere075|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 8567267885765829347
+    second: Sphere075|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -4633075772098938313
+    second: Sphere075|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: -4813795772600158935
+    second: Sphere075|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 2126863595193586666
+    second: Sphere075|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -2423951959073503602
+    second: Sphere075|Shader NodetreeAction
+  - first:
+      74: 8846977028573349523
+    second: Sphere075|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 2864528355318082005
+    second: Sphere075|Sphere072|Take 001|BaseLayer
+  - first:
+      74: -3927946884206624759
+    second: Sphere075|Sphere073|Take 001|BaseLayer
+  - first:
+      74: -5821844519486605828
+    second: Sphere075|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -6223617599060392653
+    second: Sphere075|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -2537474252673686524
+    second: Sphere075|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -5450485704708207282
+    second: Sphere075|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 4990784852101542943
+    second: Sphere075|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: -7806132851366495137
+    second: Sphere075|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: 6015179110512784206
+    second: Sphere077|Box003|Take 001|BaseLayer
+  - first:
+      74: 5237247188166635329
+    second: Sphere077|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 4123339561553743186
+    second: Sphere077|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 2734625631991663099
+    second: Sphere077|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -3905634798297688366
+    second: Sphere077|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 5533304486564481380
+    second: Sphere077|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 128024725295150920
+    second: Sphere077|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: -8406389598411839644
+    second: Sphere077|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 8460052080268005737
+    second: Sphere077|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 3359507052057584335
+    second: Sphere077|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -3311098677875081669
+    second: Sphere077|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 1984412166966008107
+    second: Sphere077|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -5830989511548147490
+    second: Sphere077|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 4458667579981177868
+    second: Sphere077|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 5892663499988909214
+    second: Sphere077|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 7918887638328362865
+    second: Sphere077|Shader NodetreeAction
+  - first:
+      74: -6254510620662248586
+    second: Sphere077|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 4824374369276355583
+    second: Sphere077|Sphere072|Take 001|BaseLayer
+  - first:
+      74: -4778776484262565812
+    second: Sphere077|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 1659086286618972528
+    second: Sphere077|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 7786019557710665491
+    second: Sphere077|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -5635536053876154852
+    second: Sphere077|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -4520899154769305696
+    second: Sphere077|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 7625094878577360570
+    second: Sphere077|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: -7485261493124839458
+    second: Sphere077|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -4885425827983490472
+    second: Cylinder166.001|Box003|Take 001|BaseLayer
+  - first:
+      74: 8200986508468460007
+    second: Cylinder166.001|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 2353427013734376469
+    second: Cylinder166.001|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 3103190260487816002
+    second: Cylinder166.001|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -1842652831896809067
+    second: Cylinder166.001|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: -5141490323806415071
+    second: Cylinder166.001|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 419564136254971460
+    second: Cylinder166.001|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: -2253130503781314183
+    second: Cylinder166.001|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 34510844009532966
+    second: Cylinder166.001|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: -1017110835403498307
+    second: Cylinder166.001|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -4881168540409785441
+    second: Cylinder166.001|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 2394876578776088851
+    second: Cylinder166.001|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: 7645291670046895614
+    second: Cylinder166.001|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 78038753999436600
+    second: Cylinder166.001|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -6536330129043842640
+    second: Cylinder166.001|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 7845753321449173574
+    second: Cylinder166.001|Shader NodetreeAction
+  - first:
+      74: -4781818925027991495
+    second: Cylinder166.001|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -3993459900640425167
+    second: Cylinder166.001|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 5376791064764755208
+    second: Cylinder166.001|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 8038500977176605837
+    second: Cylinder166.001|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 6469194064946265011
+    second: Cylinder166.001|Sphere075|Take 001|BaseLayer
+  - first:
+      74: 5246028034441188211
+    second: Cylinder166.001|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: 6061531440660777094
+    second: Cylinder166.001|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 2539957968648964495
+    second: Cylinder166.001|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: -4438823257196361334
+    second: Cylinder166.001|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: 6403504589416270694
+    second: Cylinder166.002|Box003|Take 001|BaseLayer
+  - first:
+      74: -6828379647124321001
+    second: Cylinder166.002|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 8407002163760428112
+    second: Cylinder166.002|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 2235425645510182392
+    second: Cylinder166.002|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: 7212899056945213681
+    second: Cylinder166.002|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: -3722489437919097076
+    second: Cylinder166.002|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -3932758024076627026
+    second: Cylinder166.002|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 4906833372659159262
+    second: Cylinder166.002|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 2746218924731762972
+    second: Cylinder166.002|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 947989442308210246
+    second: Cylinder166.002|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 1238294173977269096
+    second: Cylinder166.002|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: -8028152258647120815
+    second: Cylinder166.002|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: 4399479189684586044
+    second: Cylinder166.002|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: -1027501736741371075
+    second: Cylinder166.002|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -3874624449400432793
+    second: Cylinder166.002|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: 4225599795734134377
+    second: Cylinder166.002|Shader NodetreeAction
+  - first:
+      74: -5441851064648652279
+    second: Cylinder166.002|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 2448054976382537280
+    second: Cylinder166.002|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 714377075367680105
+    second: Cylinder166.002|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 7351134061077961675
+    second: Cylinder166.002|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 3914631851358871704
+    second: Cylinder166.002|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -276530332266049222
+    second: Cylinder166.002|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -2766975946442162042
+    second: Cylinder166.002|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: -6496938483023051794
+    second: Cylinder166.002|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 9160292149542317069
+    second: Cylinder166.002|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: -7301936194649897955
+    second: Sphere076|Box003|Take 001|BaseLayer
+  - first:
+      74: -7987838224671507983
+    second: Sphere076|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -8304532924142112646
+    second: Sphere076|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: -3001575501825119657
+    second: Sphere076|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: 5881619386429173428
+    second: Sphere076|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 5216693532569363009
+    second: Sphere076|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -2267299791728465671
+    second: Sphere076|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: 217298010927020846
+    second: Sphere076|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: -4462969026899708288
+    second: Sphere076|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 8784431839902887330
+    second: Sphere076|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -2437625476153055202
+    second: Sphere076|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 396917484215373140
+    second: Sphere076|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: 7594995988455420615
+    second: Sphere076|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 3552157889750910578
+    second: Sphere076|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: -3744668738325659464
+    second: Sphere076|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -6656892517940014508
+    second: Sphere076|Shader NodetreeAction
+  - first:
+      74: -3222467772188520671
+    second: Sphere076|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 3637254734011185203
+    second: Sphere076|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 2962079262284752384
+    second: Sphere076|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 4746108639324967900
+    second: Sphere076|Sphere074|Take 001|BaseLayer
+  - first:
+      74: 4729504212131078828
+    second: Sphere076|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -5570512571685269674
+    second: Sphere076|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: 4196768247383886238
+    second: Sphere076|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 1935455138069358344
+    second: Sphere076|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: -4838327566777384505
+    second: Sphere076|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: 4578265523121531591
+    second: Cylinder166.003|Box003|Take 001|BaseLayer
+  - first:
+      74: 4400237045151957799
+    second: Cylinder166.003|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: 1849735143669512704
+    second: Cylinder166.003|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 1468427567864418670
+    second: Cylinder166.003|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -3417657485978901585
+    second: Cylinder166.003|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 2541298857283261974
+    second: Cylinder166.003|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: 9141059260491531486
+    second: Cylinder166.003|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: -3450692135250538939
+    second: Cylinder166.003|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 8980261814236067072
+    second: Cylinder166.003|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 7003501621858936366
+    second: Cylinder166.003|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: -8756889396943118609
+    second: Cylinder166.003|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: -9211955770192256915
+    second: Cylinder166.003|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: -8241204961466375797
+    second: Cylinder166.003|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: -1038404568723250274
+    second: Cylinder166.003|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 2163781941861363618
+    second: Cylinder166.003|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -4069832093753560311
+    second: Cylinder166.003|Shader NodetreeAction
+  - first:
+      74: 2133156489353340982
+    second: Cylinder166.003|Sphere071|Take 001|BaseLayer
+  - first:
+      74: -5031724904566674906
+    second: Cylinder166.003|Sphere072|Take 001|BaseLayer
+  - first:
+      74: 3979059772099316605
+    second: Cylinder166.003|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 616484780702916292
+    second: Cylinder166.003|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -2194030767690347131
+    second: Cylinder166.003|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -8599064425539108802
+    second: Cylinder166.003|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: 6200949437932093907
+    second: Cylinder166.003|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 4958772529911754040
+    second: Cylinder166.003|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 405364336133262233
+    second: Cylinder166.003|Sphere075|Take 001|BaseLayer.004
+  - first:
+      74: 7818839993624587138
+    second: Cylinder166.004|Box003|Take 001|BaseLayer
+  - first:
+      74: 1026608252479837256
+    second: Cylinder166.004|Cylinder158|Take 001|BaseLayer
+  - first:
+      74: -1365966340780825254
+    second: Cylinder166.004|Cylinder159|Take 001|BaseLayer
+  - first:
+      74: 1424663748325316453
+    second: Cylinder166.004|Cylinder160|Take 001|BaseLayer
+  - first:
+      74: -2004923669347376529
+    second: Cylinder166.004|Cylinder161|Take 001|BaseLayer
+  - first:
+      74: 4346447616180124045
+    second: Cylinder166.004|Cylinder162|Take 001|BaseLayer
+  - first:
+      74: -3598420758479727530
+    second: Cylinder166.004|Cylinder163|Take 001|BaseLayer
+  - first:
+      74: -6689803742978968216
+    second: Cylinder166.004|Cylinder164|Take 001|BaseLayer
+  - first:
+      74: 7272776937958152498
+    second: Cylinder166.004|Cylinder165|Take 001|BaseLayer
+  - first:
+      74: 8157036109999057671
+    second: Cylinder166.004|Cylinder166|Take 001|BaseLayer
+  - first:
+      74: 1815050514068789546
+    second: Cylinder166.004|Cylinder166|Take 001|BaseLayer.001
+  - first:
+      74: 5736290882108717608
+    second: Cylinder166.004|Cylinder166|Take 001|BaseLayer.002
+  - first:
+      74: 5011914409911669671
+    second: Cylinder166.004|Cylinder166|Take 001|BaseLayer.003
+  - first:
+      74: 8174543328141603847
+    second: Cylinder166.004|Cylinder166|Take 001|BaseLayer.004
+  - first:
+      74: 8495356565852905529
+    second: Cylinder166.004|Cylinder167|Take 001|BaseLayer
+  - first:
+      74: -4815515019875357383
+    second: Cylinder166.004|Shader NodetreeAction
+  - first:
+      74: 8512447383598665381
+    second: Cylinder166.004|Sphere071|Take 001|BaseLayer
+  - first:
+      74: 258496333679303445
+    second: Cylinder166.004|Sphere072|Take 001|BaseLayer
+  - first:
+      74: -7995380151952570291
+    second: Cylinder166.004|Sphere073|Take 001|BaseLayer
+  - first:
+      74: 6497151032936936723
+    second: Cylinder166.004|Sphere074|Take 001|BaseLayer
+  - first:
+      74: -8044506973546346698
+    second: Cylinder166.004|Sphere075|Take 001|BaseLayer
+  - first:
+      74: -3475764091689948953
+    second: Cylinder166.004|Sphere075|Take 001|BaseLayer.001
+  - first:
+      74: -2307549211618886140
+    second: Cylinder166.004|Sphere075|Take 001|BaseLayer.002
+  - first:
+      74: 9015614387901334673
+    second: Cylinder166.004|Sphere075|Take 001|BaseLayer.003
+  - first:
+      74: 7435232008469396844
+    second: Cylinder166.004|Sphere075|Take 001|BaseLayer.004
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

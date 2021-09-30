@@ -1,0 +1,526 @@
+-target:library
+-out:"Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.dll"
+-refout:"Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.ref.dll"
+-define:UNITY_2021_1_11
+-define:UNITY_2021_1
+-define:UNITY_2021
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:USE_SEARCH_ENGINE_API
+-define:USE_QUICK_SEARCH_MODULE
+-define:SCENE_TEMPLATE_MODULE
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_RUNTIME_PERMISSIONS
+-define:ENABLE_ENGINE_CODE_STRIPPING
+-define:ENABLE_ONSCREEN_KEYBOARD
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_MONO_BDWGC
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:ENABLE_VIDEO
+-define:PLATFORM_ANDROID
+-define:UNITY_ANDROID
+-define:UNITY_ANDROID_API
+-define:ENABLE_EGL
+-define:ENABLE_NETWORK
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:UNITY_CAN_SHOW_SPLASH_SCREEN
+-define:UNITY_HAS_GOOGLEVR
+-define:UNITY_HAS_TANGO
+-define:ENABLE_SPATIALTRACKING
+-define:ENABLE_ETC_COMPRESSION
+-define:PLATFORM_EXTENDS_VULKAN_DEVICE
+-define:PLATFORM_HAS_MULTIPLE_SWAPCHAINS
+-define:UNITY_ANDROID_SUPPORTS_SHADOWFILES
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:ENABLE_UNITYADS_RUNTIME
+-define:UNITY_UNITYADS_API
+-define:ENABLE_MONO
+-define:NET_STANDARD_2_0
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.ComponentModel.Composition.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Core.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Data.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Drawing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Net.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Runtime.Serialization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.ServiceModel.Web.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Transactions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Web.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Windows.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Linq.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.AppContext.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Concurrent.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.NonGeneric.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Specialized.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.TypeConverter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Console.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Data.Common.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Contracts.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Debug.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Process.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.StackTrace.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tools.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TraceSource.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tracing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Drawing.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Dynamic.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Calendars.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.ZipFile.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Watcher.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.IsolatedStorage.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.MemoryMappedFiles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Pipes.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Expressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Queryable.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Http.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NameResolution.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NetworkInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Ping.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Requests.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Security.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Sockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebHeaderCollection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.Client.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ObjectModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Reader.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.ResourceManager.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Writer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Handles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Json.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Claims.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Csp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Principal.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.SecureString.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.RegularExpressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Overlapped.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Thread.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.ThreadPool.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Timer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ValueTuple.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.ReaderWriter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlSerializer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AccessibilityModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AndroidJNIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AnimationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ARModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.DirectorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.DSPGraphModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.GameCenterModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.GIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.GridModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.HotReloadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ImageConversionModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.IMGUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.InputLegacyModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.InputModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.JSONSerializeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.LocalizationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ParticleSystemModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.PerformanceReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.Physics2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.PhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ProfilerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ScreenCaptureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SharedInternalsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteMaskModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.StreamingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubstanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TilemapModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TLSModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UIElementsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UIElementsNativeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UmbraModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UNETModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityAnalyticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityCurlModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityTestProtocolModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VFXModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VideoModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll"
+-r:"C:/Users/UAN/Desktop/NPCTest/NPCTest/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT/Newtonsoft.Json.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Oculus.AudioManager.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Oculus.LipSync.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Oculus.Platform.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Oculus.Spatializer.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Oculus.VR.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Subsystem.Registration.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.XR.Management.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.XR.Oculus.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.SpatialTracking.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
+"Assets/Laboratorio/Oculus/Avatar/Samples/AvatarGallery/Scripts/OvrAvatarTestDriver.cs"
+"Assets/Laboratorio/Oculus/Avatar/Samples/GripPoses/Scripts/PoseEditHelper.cs"
+"Assets/Laboratorio/Oculus/Avatar/Samples/LocalAvatar/Scripts/GazeTargetSpawner.cs"
+"Assets/Laboratorio/Oculus/Avatar/Samples/RemoteLoopback/Scripts/RemoteLoopbackManager.cs"
+"Assets/Laboratorio/Oculus/Avatar/Samples/SocialStarter/Assets/Scripts/P2PManager.cs"
+"Assets/Laboratorio/Oculus/Avatar/Samples/SocialStarter/Assets/Scripts/PlayerController.cs"
+"Assets/Laboratorio/Oculus/Avatar/Samples/SocialStarter/Assets/Scripts/RemotePlayer.cs"
+"Assets/Laboratorio/Oculus/Avatar/Samples/SocialStarter/Assets/Scripts/RoomManager.cs"
+"Assets/Laboratorio/Oculus/Avatar/Samples/SocialStarter/Assets/Scripts/SocialPlatformManager.cs"
+"Assets/Laboratorio/Oculus/Avatar/Samples/SocialStarter/Assets/Scripts/VoipManager.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/GazeTarget.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatar.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarAsset.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarAssetMesh.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarAssetTexture.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarBase.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarBody.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarComponent.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarDriver.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarHand.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarLocalDriver.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarLogger.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarMaterialManager.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarPacket.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarRemoteDriver.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarRenderComponent.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarSDKCAPI.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarSDKManager.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarSettings.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarSettingsEditor.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarSkinnedMeshRenderComponent.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarSkinnedMeshRenderPBSComponent.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarSkinnedMeshRenderPBSV2Component.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarTextureCopyManager.cs"
+"Assets/Laboratorio/Oculus/Avatar/Scripts/OvrAvatarTouchController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/CustomHands/Scripts/Hand.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/CustomHands/Scripts/HandPose.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/DebugUI/Scripts/DebugUIBuilder.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/DebugUI/Scripts/HandedInputSelector.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/DebugUI/Scripts/LaserPointer.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/DistanceGrab/Scripts/ColorGrabbable.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabber.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/DistanceGrab/Scripts/GrabbableCrosshair.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/DistanceGrab/Scripts/GrabManager.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/DistanceGrab/Scripts/PauseOnInputLoss.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/BoneCapsuleTriggerLogic.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/ButtonController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/ButtonTriggerZone.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/ColliderZone.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/HandsManager.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Interactable.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/InteractableRegistry.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/InteractableToolsCreator.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/InteractableToolsInputRouter.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/FingerTipPokeTool.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/FingerTipPokeToolView.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/InteractableTool.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/InteractableToolView.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/PinchStateModule.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/RayTool.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/HandsInteraction/Scripts/Tools/RayToolView.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/CharacterCameraConstraint.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/LocomotionController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/LocomotionTeleport.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/SimpleCapsuleWithStickMovement.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimHandler.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimHandlerLaser.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimHandlerParabolic.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimVisualLaser.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportDestination.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportInputHandler.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportInputHandlerHMD.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportInputHandlerTouch.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandler.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandler360.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandlerHMD.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandlerThumbstick.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportPoint.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportSupport.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTargetHandler.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTargetHandlerNavMesh.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTargetHandlerNode.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTargetHandlerPhysical.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTransition.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTransitionBlink.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTransitionInstant.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTransitionWarp.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/TouchControllers/TouchController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Video/Plugins/Android/NativeVideoPlayer.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Video/Scripts/ButtonDownListener.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Video/Scripts/MediaPlayerImage.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Video/Scripts/MoviePlayerSample.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Video/Scripts/MoviePlayerSampleControls.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Core/Video/Scripts/VectorUtil.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/AppDeeplink/AppDeeplinkUI.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/AppDeeplink/UI/CustomDebugUI.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/DebugUI/DebugUISample.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/DistanceGrab/Scripts/DistanceGrabberSample.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Firebase/AnalyticsUI.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Firebase/SampleUI.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Firebase/StartCrashlytics.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/ControllerBoxController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/CowController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/HandsActiveChecker.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/PanelHMDFollower.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/SelectionCylinder.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrackSegment.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainButtonVisualController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainCar.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainCarBase.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainCrossingController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainLocomotive.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/TrainTrack.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/Utils/Pose.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/WindmillBladesController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/HandsTrainExample/Scripts/WindmillController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Locomotion/Scripts/CharacterCapsule.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Locomotion/Scripts/LocomotionSampleSupport.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/OVROverlay/Scripts/OVROverlaySample.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/OVROverlayCanvas/Scripts/OVROverlayCanvas.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/AugmentedObject.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/BrushController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/EnableUnpremultipliedAlpha.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/Flashlight.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/FlashlightController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/GrabObject.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/HandMeshMask.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/HandMeshUI.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/ObjectManipulator.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/OverlayPassthrough.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughBrush.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughController.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughProjectionSurface.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughStyler.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughSurface.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/SceneSampler.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/SelectivePassthroughExperience.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/Passthrough/Scripts/SPPquad.cs"
+"Assets/Laboratorio/Oculus/SampleFramework/Usage/StartScene/Scripts/StartMenu.cs"
+"Assets/Laboratorio/Scripts/Destino_Script.cs"
+"Assets/Laboratorio/Scripts/DeteccionDeJugadores.cs"
+"Assets/Laboratorio/Scripts/ItemSuelto.cs"
+"Assets/Laboratorio/Scripts/LogicaPersonaje.cs"
+"Assets/Laboratorio/Scripts/Player.cs"
+"Assets/Laboratorio/Scripts/Quest.cs"
+"Assets/Laboratorio/Scripts/QuestGiver.cs"
+"Assets/Laboratorio/Scripts/QuestSystem.cs"
+"Assets/Laboratorio/Scripts/QuestTracker.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Plugins/SimpleJSON.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/detail/GoedleAnalytics.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/detail/GoedleAtom.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/detail/GoedleConstants.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/detail/GoedleDownloadBuffer.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/detail/GoedleHttpClient.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/detail/GoedlePersistentStorageController.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/detail/GoedlePersonStorage.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/detail/GoedleUploadHandler.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/detail/GoedleUtils.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/detail/GoedleWebRequest.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/GoedleAnalytics.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/goedle_io/Scripts/GoedleLoader.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/AtomsRandomSpawner.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Buttons/CustomButton.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Buttons/EnterButton.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Buttons/ExitButton.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Buttons/LogoutButton.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/ContentAdaptationButton.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/ContentAdaptationManager.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/ExperienceBar.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/InputNavigator.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Loader.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Managers/GameManager.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Managers/MoleculesController.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Managers/PlayerMessagesController.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Managers/SceneLoader.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Managers/SoundManager.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/Molecule.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeConstructionScripts/CameraZoom.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeConstructionScripts/ElementCollision.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeConstructionScripts/ElementsCreator.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeConstructionScripts/EmptyParentMolecule.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeConstructionScripts/MoleculeSpawner.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeConstructionScripts/MouseTranslate.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeConstructionScripts/Position.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeConstructionScripts/Rotation3D.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeNamingScripts/Draggable.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeNamingScripts/ElementCard.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeNamingScripts/ElementCardDisplay.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeNamingScripts/MoleculeText.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeNamingScripts/MoleculeTextTemplate.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeNamingScripts/Slot.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/MoleculeNamingScripts/SlotSpawner.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/PDBBuilder.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/PDBParser.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/RemainingMolsText.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/ScoreManagerDisplay.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/SetPlayerTransform.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/UI/Crosshair.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/UI/ScoreText.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/UI/StartCanvas.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Scripts/UserIdentification.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/Utility/CurveControlledBob.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/Utility/FOVKick.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/Utility/FPSCounter.cs"
+"Assets/Laboratorio/StandardAssets_Chemistry/Standard Assets/Utility/LerpControlledBob.cs"
+-langversion:8.0
+
+/deterministic
+/optimize+
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+
+/nowarn:0169
+/nowarn:0649
+/utf8output
+/preferreduilang:en-US
